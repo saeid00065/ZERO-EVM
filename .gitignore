@@ -1,0 +1,6 @@
+build/
+.zeroevm/
+vendor/
+*.log
+.env
+*.test
